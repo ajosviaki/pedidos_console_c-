@@ -1,0 +1,15 @@
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/projetopedidos.dll
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/projetopedidos.pdb
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.csprojAssemblyReference.cache
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.AssemblyInfoInputs.cache
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.AssemblyInfo.cs
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.csproj.CoreCompileInputs.cache
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.dll
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/ref/projetopedidos.dll
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.pdb
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/projetopedidos.deps.json
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/projetopedidos.runtimeconfig.json
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/projetopedidos.runtimeconfig.dev.json
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/bin/Debug/net5.0/ref/projetopedidos.dll
+/Users/alinejosviaki/Desktop/Curso/Modulo 1/Codificar aplicações/projetopedidos/obj/Debug/net5.0/projetopedidos.genruntimeconfig.cache
